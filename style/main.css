@@ -37,7 +37,7 @@
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        
         margin: 0;
         padding: 0;
         z-index: 0;
@@ -422,6 +422,7 @@
         .jumbotron{
             height:100%;
             padding-bottom: 200px;
+            background-attachment: fixed;
         }
         .jumbotron h1 {
             max-width: 50%;
