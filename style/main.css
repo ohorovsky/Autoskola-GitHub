@@ -206,6 +206,8 @@
     
     .menuItems .greenBtn {
         width: 90%;
+        margin-left: auto;
+        margin-right: auto;
     }
     
     .menuItems .logo {
@@ -228,7 +230,7 @@
     }
     
     .menu a:hover {
-        color: #E14658;
+        color: #36D5C5;
     }
     /* MODAL*/
     
